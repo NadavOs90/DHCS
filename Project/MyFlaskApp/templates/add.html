@@ -1,0 +1,22 @@
+{% extends 'layout.html' %}
+
+{% block body %}
+    <div class="jumbotron text-center">
+        <h1>Add Data</h1>
+        {% from "includes/_formhelpers.html" import render_field %}
+        <form method="POST" action="">
+            <div class="form-group">
+                {{render_field(form.json_string, class_="form-control", cols="25", rows="20")}}
+            </div>
+            <p>
+                <br>
+                <select name="index" method="POST" action="">
+                    {% for index in indexes %}
+                        <option value= "{{index}}" SELECTED>{{index}}</option>"
+                    {% endfor %}
+                </select>
+                <input type="submit" class="btn btn-primary" value="Add">
+            </p>
+        </form>
+    </div>
+{% endblock %}

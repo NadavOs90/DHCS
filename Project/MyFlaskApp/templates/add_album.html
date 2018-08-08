@@ -1,0 +1,22 @@
+{% extends 'layout.html' %}
+
+{% block body %}
+    <div class="jumbotron text-center">
+        <h1>Add Album</h1>
+        {% from "includes/_formhelpers.html" import render_field %}
+        <form method="POST" action="">
+             <div class="form-group">
+                {{render_field(form.album_name, cols="2")}}
+             </div>
+             <div class="form-group">
+                {{render_field(form.release_year, cols="2")}}
+             </div>
+            <div class="form-group">
+                {{render_field(form.songs, class_="form-control", cols="5", rows="10")}}
+            </div>
+            <p>
+                <input type="submit" class="btn btn-primary" value="Submit">
+            </p>
+        </form>
+    </div>
+{% endblock %}

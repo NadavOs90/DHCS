@@ -1,0 +1,5 @@
+elasticsearch==6.3.0
+Flask
+wtforms
+requests
+names

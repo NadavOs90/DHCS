@@ -1,0 +1,77 @@
+Uniting Lyrics with Chorus
+Getting Lexemes
+Removing Stop Words
+Creating Song Arrays
+Creating Vectors for each Word
+Creating Vectors for each Song
+Getting top 10 Similarities
+The Top 10 Similar songs metadata are:
+album : missing
+singer : אתי אנקרי
+title : בכל ליבי
+writer : רבי יהודה הלוי
+composer : missing
+date : 2016
+
+album : missing
+singer : בועז שרעבי
+title : ואני תפילתי
+writer : חמוטל בן זאב
+composer : missing
+date : 2016
+
+album : missing
+singer : דורין כהן
+title : בטיחות בדרכים
+writer : עמוס ברזל
+composer : עמוס ברזל
+date : 2016
+
+album : missing
+singer : המשפחה
+title : נפגשנו בסתיו
+writer : אמיר חיים
+composer : אמיר חיים
+date : 2016
+
+album : missing
+singer : יוסי עדן
+title : דמעה אחרונה
+writer : יוסי עדן
+composer : יוסי עדן
+date : 2016
+
+album : missing
+singer : ליאור נרקיס
+title : התהיי לי 2
+writer : טל שגב
+composer : טל שגב
+date : 2016
+
+album : missing
+singer : ליאת בנאי
+title : דמעה אחרונה 2
+writer : אבי ביטר
+composer : עממי
+date : 2016
+
+album : missing
+singer : משתתפי המחזמר ספר הג ונגל
+title : מצעד הפילים
+writer : אפרים סידון
+composer : מירון מינסטר
+date : 2016
+
+album : בדרך שבחרתי
+singer : עופר לוי
+title : מבקש שתאהבי
+writer : ארלט ספדיה
+composer : רביב בן מנחם
+date : 2016
+
+album : missing
+singer : עמוס ברזל
+title : תפילה 50
+writer : אורלי בינדר
+composer : עמוס ברזל
+date : 2016

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title><l>שרית חדד - נדליק ביחד נר</l>
+               <l>מילים: <ref target="https://he.wikipedia.org/wiki/יואב_גינאי">יואב גינאי</ref></l>
+               <l>לחן: <ref target="https://he.wikipedia.org/wiki/צביקה_פיק">צביקה פיק</ref></l>
+               <l>מבצעת: <ref target="https://he.wikipedia.org/wiki/שרית_חדד">שרית חדד</ref></l>
+               <l>מקור:<ref target="https://shironet.mako.co.il/artist?type=lyrics&amp;lang=1&amp;prfid=1015&amp;wrkid=2275">שירונט</ref></l>
+               <l> שנת האירוויזיון: 2002</l>
+            </title>
+            <respStmt>
+               <resp>מילים:</resp>
+               <name type="person" role="author">יואב גינאי</name>
+            </respStmt>
+            <respStmt>
+               <resp>לחן:</resp>
+               <name type="person" role="composer">צביקה פיק</name>
+            </respStmt>
+            <respStmt>
+               <resp>מבצעת</resp>
+               <name type="person" role="performer">שרית חדד</name>
+            </respStmt>
+            <respStmt>
+               <resp>Eurovision year</resp>
+               <name type="year"><date>2002</date></name>            
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <head>שרית חדד - נדליק ביחד נר</head>
+                  
+        <lg type = "verse"> <l>לפעמים נדמה שאין תקווה </l>
+         <l>והכל נראה כל כך אפל ולא ידוע</l> 
+         <l>הפרחים עוד לא פרחו בגן ובשדה</l> 
+         <l>ובערב רק מכה הרוח</l> 
+         <l>אז בואו ונדליק ביחד נר, נר</l></lg> 
+         
+         <lg type = "chorus"><l><foreign xml:lang="en">Light a candle</foreign> </l>
+            <l><foreign xml:lang="en">Light a candle with me </foreign></l>
+            <l><foreign xml:lang="en">A thousand candles in the dark</foreign> </l>
+            <l><foreign xml:lang="en">Will open our hearts</foreign> </l></lg>
+            
+         <lg type = "verse"><l>לפעמים נראה שהמחר</l> 
+         <l>לא יביא כל נחמה לבכי ולצער</l> 
+         <l>והלילה הארוך נמשך בלי הבטחה </l>
+         <l>והאפלה חדה כתער </l>
+         <l>אז בואו ונדליק ביחד נר, נר</l></lg> 
+         
+         <lg type ="chorus"><l><foreign xml:lang="en">Light a candle</foreign> </l>
+            <l><foreign xml:lang="en">Light a candle with me </foreign></l>
+            <l><foreign xml:lang="en">A thousand candles in the dark </foreign></l>
+            <l><foreign xml:lang="en">Will open our hearts</foreign> </l></lg>
+         
+         <lg type = "verse"><l><foreign xml:lang="en">Light all the candles</foreign> </l>
+            <l><foreign xml:lang="en">Let's light the candles everywhere</foreign> </l>
+            <l><foreign xml:lang="en">Just look at me and take my hand</foreign> </l>
+            <l><foreign xml:lang="en">The heat of love will glow again</foreign></l></lg>
+
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title><l>אורנה ומשה דץ - כאן</l>
+               <l>מילים: <ref target="https://he.wikipedia.org/wiki/עוזי_חיטמן">עוזי חיטמן</ref></l>
+               <l>לחן: <ref target="https://he.wikipedia.org/wiki/עוזי_חיטמן">עוזי חיטמן</ref></l>
+               <l>מבצעים: <ref target="https://he.wikipedia.org/wiki/אורנה_ומשה_דץ">אורנה ומשה דץ</ref></l>
+               <l>מקור:<ref target="https://shironet.mako.co.il/artist?type=lyrics&amp;lang=1&amp;prfid=83&amp;wrkid=1647">שירונט</ref></l>
+               <l> שנת האירוויזיון:1991</l>
+            </title>
+            <respStmt>
+               <resp>מילים:</resp>
+               <name type="person" role="author"><name>עוזי חיטמן</name></name>
+            </respStmt>
+            <respStmt>
+               <resp>לחן:</resp>
+               <name type="person" role="composer"><name>עוזי חיטמן</name></name>
+            </respStmt>
+            <respStmt>
+               <resp>מבצעת</resp>
+               <name type="person" role="performer"><name>אורנה דץ</name> ו<name>משה דץ</name></name>
+            </respStmt>
+            <respStmt>
+               <resp>Eurovision year</resp>
+               <name type="year"><date>1991</date></name>            
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <head>אורנה ומשה דץ - כאן</head>
+         
+         <lg type="verse"><l>כאן ביתי פה אני נולדתי</l> 
+         <l>במישור אשר על שפת הים </l>
+         <l>כאן החברים איתם גדלתי </l>
+         <l>ואין לי שום מקום אחר בעולם </l></lg>
+         
+         <lg type="verse"><l>כאן ביתי פה אני שיחקתי </l>
+         <l>בשפלה אשר על גב ההר </l>
+         <l>כאן מן הבאר שתיתי מים </l>
+         <l>ושתלתי דשא במדבר. </l></lg>
+         
+         <lg type="chorus"><l>כאן נולדתי כאן נולדו לי ילדי </l>
+         <l>כאן בניתי את ביתי בשתי ידי </l>
+         <l>כאן גם אתה איתי וכאן כל אלף ידידי </l>
+         <l>ואחרי שנים אלפיים סוף לנדודי.</l></lg> 
+         
+         <lg type="verse"><l>כאן את כל שירי אני ניגנתי</l> 
+         <l>והלכתי במסע לילי </l>
+         <l>כאן בנעורי אני הגנתי </l>
+         <l>על חלקת האלוהים שלי.</l></lg> 
+         
+         <lg type="chorus"><l>כאן נולדתי כאן נולדו לי ילדי </l>
+         <l>כאן בניתי את ביתי בשתי ידי </l>
+         <l>כאן גם אתה איתי וכאן כל אלף ידידי </l>
+         <l>ואחרי שנים אלפיים סוף לנדודי.</l></lg> 
+         
+         <lg type="verse"><l>כאן את שולחני אני ערכתי </l>
+         <l>פת של לחם פרח רענן </l>
+         <l>דלת לשכנים אני פתחתי </l>
+         <l>ומי שבא נאמר לו "אהלן".</l></lg> 
+         
+         <lg type="chorus"><l>כאן נולדתי כאן נולדו לי ילדי </l>
+         <l>כאן בניתי את ביתי בשתי ידי </l>
+         <l>כאן גם אתה איתי וכאן כל אלף ידידי </l>
+         <l>ואחרי שנים אלפיים סוף לנדודי.</l></lg> 
+         
+      </body>
+  </text>
+</TEI>

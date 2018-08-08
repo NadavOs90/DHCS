@@ -1,0 +1,77 @@
+Uniting Lyrics with Chorus
+Getting Lexemes
+Removing Stop Words
+Creating Song Arrays
+Creating Vectors for each Word
+Creating Vectors for each Song
+Getting top 10 Similarities
+The Top 10 Similar songs metadata are:
+album : missing
+singer : אביבה אבידן
+title : אמא אמא
+writer : עמוס אטינגר
+composer : missing
+date : 2016
+
+album : missing
+singer : דני בן ישראל
+title : נר בחלונך
+writer : דידי מנוסי
+composer : גדעון פיפר
+date : 2016
+
+album : missing
+singer : האחים רמירז
+title : Who You
+writer : עוזי רמירז
+composer : עוזי רמירז
+date : 2016
+
+album : missing
+singer : הכל עובר חביבי
+title : תן כתף
+writer : נעמי שמר
+composer : נעמי שמר
+date : 2016
+
+album : missing
+singer : לימוס לימוס
+title : Smiling Back
+writer : נועם רפפורט
+composer : אדי רון
+date : 2016
+
+album : missing
+singer : עמית ארז
+title : killing light
+writer : עמית ארז
+composer : עמית ארז
+date : 2016
+
+album : missing
+singer : ענת בן חמו
+title : Inside Yourself
+writer : מתן אמית
+composer : מתן אמית
+date : 2016
+
+album : לנשום בספירה לאחור
+singer : רונה קינן
+title : Train 3
+writer : רונה קינן
+composer : רונה קינן
+date : 2016
+
+album : missing
+singer : רוקפור
+title : Oranges
+writer : מרק לזר
+composer : missing
+date : 2016
+
+album : missing
+singer : תמי פדרמן
+title : Blonds
+writer : תמי פדרמן
+composer : תמי פדרמן
+date : 2016
